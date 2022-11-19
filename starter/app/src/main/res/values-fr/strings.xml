@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">RW Magic 8 Ball</string>
+  <string name="askButtonText">Demander</string>
+  <string name="slogan">Prenez vos décisions PLUS RAPIDEMENT!</string>
+</resources>

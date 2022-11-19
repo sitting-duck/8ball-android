@@ -1,0 +1,5 @@
+# Path to the json secret file
+# Follow https://docs.fastlane.tools/actions/supply/#setup to get one
+
+json_key_file("./api-play-store-key.json")
+package_name("com.raywenderlich.android.rwmagic8ball") # e.g. com.krausefx.app
